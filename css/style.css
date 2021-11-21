@@ -1,0 +1,14 @@
+
+.recipe-img{
+    height: 250px;
+}
+header {
+    background-image: url(../images/alex-haney-CAhjZmVk5H4-unsplash.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+nav .logo {
+    width: 70px;
+}
